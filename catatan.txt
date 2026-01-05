@@ -1,2 +1,2 @@
-haii aku lagi belajar git
+haii aku lagi belajar git dan version control
 perubahan ini dibuat di branch fitu-catatan
